@@ -118,7 +118,7 @@ function closeModalthree(){
 }
 
 function closeModalfour(){
-    modalfour.style.display = 'none'
+    modalfour.style.display = 'none';
 }
 
 function closeModalfive(){
@@ -134,7 +134,7 @@ function closeModalseven(){
 }
 
 function closeModaleight(){
-    modaleight.style.display = 'none'
+    modaleight.style.display = 'none';
 }
 
 function closeModalnine(){
@@ -142,7 +142,7 @@ function closeModalnine(){
 }
 
 function closeModalten(){
-    modalten.style.display = 'none'
+    modalten.style.display = 'none';
 }
 
 function outsideClick(e){
